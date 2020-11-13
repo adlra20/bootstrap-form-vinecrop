@@ -1,0 +1,23 @@
+/* Your form design */
+body{
+    background: linear-gradient(90deg, rgba(16,11,0,1) 0%, rgba(75,121,9,0.6502976190476191) 100%),url(../../images/background.jpg);
+}
+
+form{
+    background-color: #EFFFC8;
+    color: #3B341F;
+}
+
+/*form h2{
+  color: #3B341F;
+}*/
+
+form label{
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.btn:hover{
+    background-color: #85CB33;
+    border-color: #85CB33;
+}
